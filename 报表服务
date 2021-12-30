@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T01:16:45.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="16.1.0" etag="yaYdy0c2JbqQeKiF5Xm5" type="github"><diagram id="kzoQQ2L0YpFvmUR_nEkZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T08:17:22.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="r0FGv_2FK_K0zfVGtFm0" version="16.1.0" type="github">
+  <diagram id="kzoQQ2L0YpFvmUR_nEkZ" name="第 1 页">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-1" target="nnKT4RTFHG44ErIFAq-k-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-5" target="nnKT4RTFHG44ErIFAq-k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-5" value="Action过滤器&lt;br&gt;（审计日志/队列控制）" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-7" target="nnKT4RTFHG44ErIFAq-k-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-7" value="控制器" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-9" target="nnKT4RTFHG44ErIFAq-k-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-9" value="(服务层)&lt;br&gt;报表执行服务" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-11" target="nnKT4RTFHG44ErIFAq-k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-11" value="执行帮助类" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnKT4RTFHG44ErIFAq-k-17" target="nnKT4RTFHG44ErIFAq-k-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-17" value="解析器执行&lt;br&gt;(数据获取解析生成)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-21" value="过滤器逻辑" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="nnKT4RTFHG44ErIFAq-k-21">
+          <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-23" value="获取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="nnKT4RTFHG44ErIFAq-k-21">
+          <mxGeometry x="20" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnKT4RTFHG44ErIFAq-k-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nnKT4RTFHG44ErIFAq-k-21" source="nnKT4RTFHG44ErIFAq-k-22" target="nnKT4RTFHG44ErIFAq-k-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
