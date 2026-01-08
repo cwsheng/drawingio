@@ -19,17 +19,23 @@
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="找对人的能力&lt;br&gt;…" vertex="1">
           <mxGeometry height="30" width="70" x="290" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4190476190476204;arrowSize=0.46530612244897857;" value="" vertex="1">
-          <mxGeometry height="60" width="70" x="400" y="220" as="geometry" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5238095238095241;arrowSize=0.26571428571428496;align=center;" value="可得到&amp;nbsp; &amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="70" x="400" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
-          <mxGeometry height="50" width="100" x="140" y="260" as="geometry" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="表达能力" vertex="1">
+          <mxGeometry height="50" width="70" x="120" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
-          <mxGeometry height="50" width="100" x="10" y="260" as="geometry" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
+          <mxGeometry height="50" width="70" x="40" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
-          <mxGeometry height="50" width="100" x="275" y="260" as="geometry" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="管理能力" vertex="1">
+          <mxGeometry height="50" width="70" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1;fontSize=13;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="时间&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="120" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="沟通能力" vertex="1">
+          <mxGeometry height="50" width="70" x="200" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
