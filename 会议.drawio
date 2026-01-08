@@ -8,13 +8,13 @@
           <mxGeometry height="63" width="390" y="40" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵1：利用工具的能力" vertex="1">
-          <mxGeometry height="60" width="150" x="9" y="158" as="geometry" />
+          <mxGeometry height="60" width="150" x="1" y="158" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵2：协调资源能力" vertex="1">
           <mxGeometry height="60" width="140" x="247" y="158" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=7;" value="提升效率工具：&lt;br&gt;AI" vertex="1">
-          <mxGeometry height="30" width="70" x="109" y="198" as="geometry" />
+          <mxGeometry height="30" width="70" x="1" y="199" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="找对人的能力&lt;br&gt;…" vertex="1">
           <mxGeometry height="30" width="70" x="327" y="198" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry height="80" width="350" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
-          <mxGeometry height="40" width="35" x="182.5" y="229" as="geometry" />
+          <mxGeometry height="49" width="35" x="182.5" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-11" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
           <mxGeometry height="40" width="35" x="182" y="113" as="geometry" />
@@ -67,14 +67,14 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-19" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="管理自己和资源" vertex="1">
           <mxGeometry height="45" width="80" x="280" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-23" edge="1" parent="1" style="endArrow=classic;dashed=1;html=1;rounded=0;fontSize=16;startArrow=classicThin;startFill=0;endFill=0;" value="">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-23" edge="1" parent="1" source="k2Vf-6TwrKCef0DtmQKt-13" style="endArrow=classic;dashed=1;html=1;rounded=0;fontSize=16;startArrow=classicThin;startFill=0;endFill=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="k2Vf-6TwrKCef0DtmQKt-14" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="165.88" y="187.71" as="sourcePoint" />
-            <mxPoint x="234.13" y="187.71" as="targetPoint" />
+            <mxPoint x="240" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="互补" vertex="1">
-          <mxGeometry height="20" width="60" x="170" y="170" as="geometry" />
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="二者相辅相成" vertex="1">
+          <mxGeometry height="20" width="80" x="160" y="158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
