@@ -79,6 +79,9 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-25" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.33;arrowHead=43;dx2=25.25;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="210" width="70" x="-130" y="169" as="geometry" />
         </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基础能力反哺内涵" vertex="1">
+          <mxGeometry height="30" width="60" x="-90" y="259" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
