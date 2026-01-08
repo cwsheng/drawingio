@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="MgB-m0yNuea4qQZCcCB_">
-    <mxGraphModel dx="1637" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,20 +28,20 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-7" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="380" x="10" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="表达能力" vertex="1">
-          <mxGeometry height="50" width="70" x="110" y="15" as="geometry" />
-        </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
           <mxGeometry height="50" width="70" x="30" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="管理能力" vertex="1">
-          <mxGeometry height="50" width="70" x="270" y="15" as="geometry" />
-        </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-3" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="沟通能力" vertex="1">
-          <mxGeometry height="50" width="70" x="190" y="15" as="geometry" />
-        </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-6" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="基础能力" vertex="1">
           <mxGeometry height="80" width="390" x="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="管理能力" vertex="1">
+          <mxGeometry height="50" width="70" x="300" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-3" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="沟通能力" vertex="1">
+          <mxGeometry height="50" width="70" x="217" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="表达能力" vertex="1">
+          <mxGeometry height="50" width="70" x="130" y="15" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
           <mxGeometry height="49" width="35" x="182.5" y="220" as="geometry" />
