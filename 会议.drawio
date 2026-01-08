@@ -55,6 +55,15 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来提升自己基础能力，形成正向循环" vertex="1">
           <mxGeometry height="40" width="110" x="460" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" value="学习各种工具" vertex="1">
+          <mxGeometry height="40" width="80" x="30" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-17" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" value="准确的将自己的想法表达给工具" vertex="1">
+          <mxGeometry height="45" width="80" x="110" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-18" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" value="找对的人需要能与对方有效的沟通" vertex="1">
+          <mxGeometry height="45" width="80" x="190" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
