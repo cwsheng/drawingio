@@ -19,7 +19,7 @@
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="找对人的能力&lt;br&gt;…" vertex="1">
           <mxGeometry height="30" width="70" x="290" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5238095238095241;arrowSize=0.26571428571428496;align=center;" value="提升效率&amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5238095238095241;arrowSize=0.26571428571428496;align=center;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="提升效率&amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="110" x="400" y="170" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1;fontSize=13;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="时间&amp;nbsp;" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-11" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
           <mxGeometry height="40" width="35" x="182" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;" value="" vertex="1">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
           <mxGeometry height="130" width="220" x="390" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来提升自己基础能力，形成正向循环" vertex="1">
