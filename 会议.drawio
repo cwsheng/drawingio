@@ -13,10 +13,10 @@
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵2：协调资源能力" vertex="1">
           <mxGeometry height="60" width="140" x="390" y="135" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=7;" value="提升效率工具：&lt;br&gt;AI" vertex="1">
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;" value="提升效率工具：&lt;br&gt;AI" vertex="1">
           <mxGeometry height="30" width="70" x="144" y="176" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="找对人的能力&lt;br&gt;…" vertex="1">
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#e1d5e7;strokeColor=#9673a6;" value="找对人的能力&lt;br&gt;…" vertex="1">
           <mxGeometry height="30" width="70" x="470" y="175" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5238095238095241;arrowSize=0.26571428571428496;align=center;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="提升效率&amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
