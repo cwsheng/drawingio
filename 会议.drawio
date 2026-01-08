@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+  <diagram name="第 1 页" id="MgB-m0yNuea4qQZCcCB_">
+    <mxGraphModel dx="810" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="" vertex="1">
+          <mxGeometry height="50" width="310" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵1：利用工具的能力" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵2：协调资源能力" vertex="1">
+          <mxGeometry height="60" width="140" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=7;" value="提升效率工具：&lt;br&gt;AI" vertex="1">
+          <mxGeometry height="30" width="70" x="140" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=7;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="找对人的能力&lt;br&gt;…" vertex="1">
+          <mxGeometry height="30" width="70" x="290" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4190476190476204;arrowSize=0.46530612244897857;" value="" vertex="1">
+          <mxGeometry height="60" width="70" x="400" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
+          <mxGeometry height="50" width="100" x="140" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
+          <mxGeometry height="50" width="100" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="沟通表达" vertex="1">
+          <mxGeometry height="50" width="100" x="275" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
