@@ -22,7 +22,7 @@
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5238095238095241;arrowSize=0.26571428571428496;align=center;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="提升效率&amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="110" x="434" y="155" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1;fontSize=13;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="时间&amp;nbsp;" vertex="1">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1;fontSize=13;fillColor=light-dark(#E51400,#B8B4C6);fontColor=#ffffff;strokeColor=none;shadow=0;gradientColor=light-dark(#000000,#000099);gradientDirection=east;" value="时间&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="120" x="574" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-7" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -50,7 +50,7 @@
           <mxGeometry height="40" width="35" x="182" y="113" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
-          <mxGeometry height="150" width="220" x="434" y="229" as="geometry" />
+          <mxGeometry height="150" width="256" x="398" y="229" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来学习接触新事物，形成正向循环" vertex="1">
           <mxGeometry height="40" width="110" x="494" y="265" as="geometry" />
@@ -72,6 +72,9 @@
             <mxPoint x="165.88" y="187.71" as="sourcePoint" />
             <mxPoint x="234.13" y="187.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="互补" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
