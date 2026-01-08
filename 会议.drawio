@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontStyle=1;fontSize=22;" value="“偷懒”的能力" vertex="1">
-          <mxGeometry height="63" width="690" y="40" as="geometry" />
+          <mxGeometry height="63" width="390" y="40" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵1：利用工具的能力" vertex="1">
           <mxGeometry height="60" width="150" x="1" y="158" as="geometry" />
