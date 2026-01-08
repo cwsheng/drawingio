@@ -64,6 +64,9 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-18" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" value="找对的人需要能与对方有效的沟通" vertex="1">
           <mxGeometry height="45" width="80" x="190" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-19" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" value="管理自己和资源" vertex="1">
+          <mxGeometry height="45" width="80" x="280" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
