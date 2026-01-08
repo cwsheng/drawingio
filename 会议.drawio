@@ -52,8 +52,8 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
           <mxGeometry height="150" width="220" x="390" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来提升自己基础能力，形成正向循环" vertex="1">
-          <mxGeometry height="40" width="110" x="445" y="260" as="geometry" />
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来学习接触新事物，形成正向循环" vertex="1">
+          <mxGeometry height="40" width="110" x="460" y="265" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="学习各种工具、新事物" vertex="1">
           <mxGeometry height="40" width="80" x="30" y="267.5" as="geometry" />
