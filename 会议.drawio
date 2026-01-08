@@ -28,9 +28,6 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-7" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="380" x="10" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
-          <mxGeometry height="50" width="70" x="30" y="15" as="geometry" />
-        </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-6" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="基础能力" vertex="1">
           <mxGeometry height="80" width="390" x="-10" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="表达能力" vertex="1">
           <mxGeometry height="50" width="70" x="130" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
+          <mxGeometry height="50" width="70" x="40" y="15" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
           <mxGeometry height="49" width="35" x="182.5" y="220" as="geometry" />
