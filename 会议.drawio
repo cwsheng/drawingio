@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
   <diagram name="第 1 页" id="MgB-m0yNuea4qQZCcCB_">
-    <mxGraphModel dx="1225" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry height="70" width="120" x="703" y="127" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="80" width="380" x="153" y="297" as="geometry" />
+          <mxGeometry height="153" width="380" x="153" y="297" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-6" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="核心能力" vertex="1">
-          <mxGeometry height="80" width="390" x="-10" as="geometry" />
+          <mxGeometry height="153" width="390" x="-10" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="管理能力" vertex="1">
           <mxGeometry height="50" width="70" x="300" y="15" as="geometry" />
@@ -40,14 +40,35 @@
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
           <mxGeometry height="50" width="70" x="40" y="15" as="geometry" />
         </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-3" edge="1" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="42" y="82" as="sourcePoint" />
+            <mxPoint x="367" y="82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-4" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="ellipse;whiteSpace=wrap;html=1;" value="逻辑思维" vertex="1">
+          <mxGeometry height="34" width="63" x="40" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-5" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="ellipse;whiteSpace=wrap;html=1;" value="听" vertex="1">
+          <mxGeometry height="34" width="41" x="121" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-14" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="ellipse;whiteSpace=wrap;html=1;" value="说" vertex="1">
+          <mxGeometry height="34" width="41" x="181" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-15" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="ellipse;whiteSpace=wrap;html=1;" value="写" vertex="1">
+          <mxGeometry height="34" width="41" x="237" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-16" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="ellipse;whiteSpace=wrap;html=1;" value="认知" vertex="1">
+          <mxGeometry height="34" width="41" x="305" y="98" as="geometry" />
+        </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=26.71;direction=south;notch=0;" value="" vertex="1">
           <mxGeometry height="49" width="35" x="325.5" y="197" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
-          <mxGeometry height="150" width="256" x="541" y="206" as="geometry" />
+          <mxGeometry height="202" width="256" x="541" y="206" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来学习、接触新事物，提升核心能力，形成正向循环" vertex="1">
-          <mxGeometry height="40" width="131" x="622" y="253" as="geometry" />
+          <mxGeometry height="40" width="131" x="622" y="313" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="学习各种工具、新事物" vertex="1">
           <mxGeometry height="40" width="80" x="173" y="244.5" as="geometry" />
@@ -71,7 +92,7 @@
           <mxGeometry height="20" width="80" x="303" y="135" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-25" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.33;arrowHead=43;dx2=25.25;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="210" width="126" x="13" y="146" as="geometry" />
+          <mxGeometry height="253" width="147" x="-17" y="152" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心能力反哺内涵" vertex="1">
           <mxGeometry height="30" width="60" x="53" y="236" as="geometry" />
