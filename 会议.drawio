@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
   <diagram name="第 1 页" id="MgB-m0yNuea4qQZCcCB_">
-    <mxGraphModel dx="1418" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontStyle=1;fontSize=22;" value="“偷懒”的能力&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;——在AI时代，如何借力而成长" vertex="1">
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontStyle=1;fontSize=22;" value="“偷懒”的能力&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;——如何借力而成长" vertex="1">
           <mxGeometry height="63" width="680" x="143" y="17" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="内涵1：利用工具的能力" vertex="1">
@@ -28,17 +28,14 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-7" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="380" x="153" y="297" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-6" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="基础能力" vertex="1">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-6" parent="Cwng8MhmTXRrHrBNeC1Z-7" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="核心能力" vertex="1">
           <mxGeometry height="80" width="390" x="-10" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-22" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="管理能力" vertex="1">
           <mxGeometry height="50" width="70" x="300" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-3" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="沟通能力" vertex="1">
-          <mxGeometry height="50" width="70" x="217" y="15" as="geometry" />
-        </mxCell>
-        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="表达能力" vertex="1">
-          <mxGeometry height="50" width="70" x="130" y="15" as="geometry" />
+        <mxCell id="k2Vf-6TwrKCef0DtmQKt-18" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="沟通、表达能力" vertex="1">
+          <mxGeometry height="50" width="148" x="130" y="15" as="geometry" />
         </mxCell>
         <mxCell id="k2Vf-6TwrKCef0DtmQKt-19" parent="Cwng8MhmTXRrHrBNeC1Z-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="学习能力" vertex="1">
           <mxGeometry height="50" width="70" x="40" y="15" as="geometry" />
@@ -49,7 +46,7 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=11.64;dx=43.57;notch=0;arrowHead=58.62;rounded=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
           <mxGeometry height="150" width="256" x="541" y="206" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来学习、接触新事物，提升基础能力，形成正向循环" vertex="1">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更多的时间来学习、接触新事物，提升核心能力，形成正向循环" vertex="1">
           <mxGeometry height="40" width="131" x="622" y="253" as="geometry" />
         </mxCell>
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="学习各种工具、新事物" vertex="1">
@@ -76,8 +73,14 @@
         <mxCell id="Cwng8MhmTXRrHrBNeC1Z-25" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=12.33;arrowHead=43;dx2=25.25;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="210" width="126" x="13" y="146" as="geometry" />
         </mxCell>
-        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基础能力反哺内涵" vertex="1">
+        <mxCell id="Cwng8MhmTXRrHrBNeC1Z-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心能力反哺内涵" vertex="1">
           <mxGeometry height="30" width="60" x="53" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="物" vertex="1">
+          <mxGeometry height="37" width="48" x="214" y="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rBBor9xRtGTA6bOMaZ9n-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="人" vertex="1">
+          <mxGeometry height="37" width="48" x="422" y="172.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
